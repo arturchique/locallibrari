@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3805295-05b7-4645-802c-8f179f37fcd8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xt7m8hHcSAHhRNSl8J7KiyhlXL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ZakhArt/zakhart" />
+  </component>
+  <component name="RunManager" selected="Python.parse">
+    <configuration name="jfdk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="locallibrary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/locallibrary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/locallibrary/jfdk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="locallibrary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/catalog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/catalog/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="locallibrary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/locallibrary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/locallibrary/parse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.parse" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.jfdk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3805295-05b7-4645-802c-8f179f37fcd8" name="Default Changelist" comment="" />
+      <created>1581853692724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581853692724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="149" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585665432704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="149" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585665432704" />
+    <state x="548" y="155" key="FileChooserDialogImpl" timestamp="1585931784912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585931784912" />
+    <state width="1515" height="151" key="GridCell.Tab.0.bottom" timestamp="1584434719676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584434719676" />
+    <state width="1515" height="151" key="GridCell.Tab.0.center" timestamp="1584434719676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584434719676" />
+    <state width="1515" height="151" key="GridCell.Tab.0.left" timestamp="1584434719676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584434719676" />
+    <state width="1515" height="151" key="GridCell.Tab.0.right" timestamp="1584434719676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584434719676" />
+    <state width="662" height="258" key="GridCell.Tab.1.bottom" timestamp="1584180982736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="662" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584180982736" />
+    <state width="662" height="258" key="GridCell.Tab.1.center" timestamp="1584180982736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="662" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584180982736" />
+    <state width="662" height="258" key="GridCell.Tab.1.left" timestamp="1584180982736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="662" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584180982736" />
+    <state width="662" height="258" key="GridCell.Tab.1.right" timestamp="1584180982736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="662" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584180982736" />
+    <state x="487" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1585931760335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="321" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585931760335" />
+    <state x="842" y="13" width="609" height="804" key="find.popup" timestamp="1581969723282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="842" y="13" width="609" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1581969723282" />
+    <state x="636" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583330394226">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="636" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583330394226" />
+  </component>
+</project>

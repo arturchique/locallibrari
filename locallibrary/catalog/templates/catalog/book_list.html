@@ -1,0 +1,43 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+<h1>Book List</h1>
+
+{% if book_list %}
+<ul>
+
+    {% for book in book_list %}
+    <li>
+        <a href="{{ book.get_absolute_url }}">{{ book.title }}</a> ({{book.author}})
+    </li>
+    {% endfor %}
+
+</ul>
+{% else %}
+<p>There are no books in the library.</p>
+{% endif %}
+
+<form action="{% url 'filter' %}" method="get" name="filter">
+    <h1>Фильтры</h1>
+        <p>По жанрам</p>
+        <ul>
+            {% for genre in view.get_genres %}
+            <li>
+                <input type="checkbox" class="checked" name="genre" value="{{ genre.id }}">
+                <span>{{ genre.name }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+        <p>По авторам</p>
+        <ul>
+            {% for author in view.get_author %}
+            <li>
+                <input type="checkbox" class="checked" name="author" value="{{ author.id }}">
+                <span>{{ author.name }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+        </div>
+        <button type="submit">Фильтровать</button>
+</form>
+{% endblock %}
